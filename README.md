@@ -12,15 +12,15 @@ Interactive Dashboards
 
 #📊 Key Performance Indicators
 Metric	               Result
-Total Claims	         50,000
-Approved Claims	       16,737
-Rejected Claims	       16,526
-Pending Claims	       16,737
-Total Claim Amount     ₹6.39 Billion
-Approved Amount	       ₹3.21 Billion
-Rejected Amount	       ₹3.19 Billion
-Average Settlement Days	23.49
-Fraud Count	           4,989
+-Total Claims	         50,000
+-Approved Claims	       16,737
+-Rejected Claims	       16,526
+-Pending Claims	       16,737
+-Total Claim Amount     ₹6.39 Billion
+-Approved Amount	       ₹3.21 Billion
+-Rejected Amount	       ₹3.19 Billion
+-Average Settlement Days	23.49
+-Fraud Count	           4,989
 
 #📈 Dashboard Modules
 Executive Summary: Claim status, financial overview, monthly trends, and state-wise analysis.
@@ -38,15 +38,16 @@ Appendectomy recorded the highest disease claim count (8,443) and package cost (
 Average hospital stay was 8 days
 
 #🎛️ Interactive Filters
-Admission Year
-Gender
-Age Group
-Admission Month
-Claim Status
-Hospital Type
-Treatment Package
-Discharge Year
-💡 Skills Demonstrated
+--Admission Year
+--Gender
+--Age Group
+--Admission Month
+--Claim Status
+--Hospital Type
+--Treatment Package
+--Discharge Year
+
+#💡 Skills Demonstrated
 
 Data Analysis | Data Cleaning | EDA | KPI Development | Data Visualization | Fraud Analytics | Healthcare Analytics | Business Intelligence | Dashboard Development
 
